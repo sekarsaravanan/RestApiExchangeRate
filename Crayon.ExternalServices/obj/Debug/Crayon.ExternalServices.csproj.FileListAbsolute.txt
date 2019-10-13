@@ -1,0 +1,7 @@
+C:\Users\ssekar\source\repos\Crayon.Api\Crayon.ExternalServices\bin\Debug\Crayon.ExternalServices.dll
+C:\Users\ssekar\source\repos\Crayon.Api\Crayon.ExternalServices\bin\Debug\Crayon.ExternalServices.pdb
+C:\Users\ssekar\source\repos\Crayon.Api\Crayon.ExternalServices\bin\Debug\RestSharp.dll
+C:\Users\ssekar\source\repos\Crayon.Api\Crayon.ExternalServices\bin\Debug\RestSharp.xml
+C:\Users\ssekar\source\repos\Crayon.Api\Crayon.ExternalServices\obj\Debug\Crayon.ExternalServices.csproj.CopyComplete
+C:\Users\ssekar\source\repos\Crayon.Api\Crayon.ExternalServices\obj\Debug\Crayon.ExternalServices.dll
+C:\Users\ssekar\source\repos\Crayon.Api\Crayon.ExternalServices\obj\Debug\Crayon.ExternalServices.pdb
